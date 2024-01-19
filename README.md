@@ -1,2 +1,0 @@
-# Income-Level-Prediction-Using-Machine-Learning
-The aim of this  project is to have an in-depth understanding of Artificial Neural Network  (ANN) models, along with Decision Trees and Random Forests. The main objective is to apply these  models in predicting income levels and subsequently carry out a comparative analysis. This analysis  will be rooted in metrics of each model concerning the prediction of whether income  surpasses $50K/yr based on census data.
